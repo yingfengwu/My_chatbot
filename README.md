@@ -1,9 +1,3 @@
-# My_chatbot
-This is the chatbot that can be communicated with android app
-The example can be shown as a picture. As followed:
-
-<div align=center>
-<img src="images\example.jpg" />
-</div>
-
-However, the final results are not more intelligent and it should be optimized in further.
+version https://git-lfs.github.com/spec/v1
+oid sha256:066d114f71aa75ac2516ff56a5b49e08dbf3385f4bff6db2dfbb66916467f394
+size 279
