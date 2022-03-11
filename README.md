@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:066d114f71aa75ac2516ff56a5b49e08dbf3385f4bff6db2dfbb66916467f394
-size 279
+This is the chatbot that can be communicated with android app.
+It is shown that the chabot example is as followed:
+
+<div align=center>
+<img src="images\example.jpg" />
+</div>
+
+However, it need to be more intelligent and should be optimized in further.
